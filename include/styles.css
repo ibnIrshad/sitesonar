@@ -1,0 +1,183 @@
+body {
+	background-image:url(../images/backgroundPATTERN.jpg);
+	background-position:top;
+	background-repeat:repeat-x;
+	font-family: Calibri, "Myriad Pro", Helvetica, Verdana, sans-serif;
+	font-size: 85%;
+	font-style: normal;
+	color: #4F4F4F;
+	text-align: left;
+
+}
+.outerwrapper {
+}
+
+
+
+
+h1 {
+	font-family: Georgia;
+	color: #444;
+	text-align: left;
+	letter-spacing: 0;
+	line-height: 1.2em;
+	font-size: 1.4em;
+}
+
+.topsection {
+	width:990px;
+	height:189px;
+	background-image: url(http://i152.photobucket.com/albums/s165/hi_tech67/topsection_blank_06.gif);
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #FFFFFF;
+}
+.aligner {
+	width: 1000px;
+	text-align: left;
+}
+
+.controlbox {
+	background-color:#EFEFEF;
+	width: 996px;
+	font-family: Calibri, "Myriad Pro", Helvetica, Verdana, sans-serif;
+	font-size: 100%;
+	font-style: normal;
+	color: #4F4F4F;
+	text-align: left;
+	padding: 2px;
+	margin-top: 3px;
+	padding-bottom: 4px;
+}
+
+#recentStatuses {
+	overflow: scroll;
+	text-align: center;
+	height: 400px;
+}
+.bad {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: large;
+	color: #FF0000;
+}
+
+.goodStatus {
+	background-color: #A0FAA7;
+	color: #000000;
+
+}
+.recStatuses {
+	border-collapse: collapse;
+	padding: 3px;
+}
+
+
+.badStatus {
+	background-color: #E3B8B0;
+	color: #000000;
+
+}
+
+.good {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: large;
+	color: #00CC33;
+}
+
+
+.topspacer {
+	height:40px;
+}
+
+.columnLeft {
+	padding: 5px;
+	width: 330px;
+	float: left;
+	clear: left;
+	background-color: #F5F5F5;
+}
+
+.columnCenter {
+	padding: 5px;
+	width: 326px;
+	float:left;
+	background-color: #EBEBEB;
+}
+
+.columnRight {
+	padding: 5px;
+	width: 314px;
+	clear: right;
+	float:right;
+	background-color: #F5F5F5;
+}
+#stats {
+	width: 310px;
+	text-align: center;
+}
+
+.noBorder:link {
+	text-decoration:none;
+	border:none;
+}
+
+.noBorder:visited {
+	text-decoration:none;
+	border:none;
+}
+
+.noBorder:hover {
+	text-decoration:none;
+	border:none;
+}
+
+.noBorder:active {
+	text-decoration:none;
+	border:none;
+}
+
+.accountFunctions:link {
+	color:#3366CC;
+	font-size: 120%;
+	text-decoration: none;
+}
+
+.accountFunctions:visited {
+	color:#3366CC;
+	font-size: 120%;
+	text-decoration: none;
+	}
+
+.accountFunctions:hover {
+	color:#0099CC;
+	font-size: 120%;
+	text-decoration: overline;
+	}
+
+.accountFunctions:active {
+	color:#3366CC;
+	font-size: 120%;
+	text-decoration: none;
+	}
+
+.footer {
+	padding: 5px;
+	height: 40px;
+	width: 990px;
+	margin-top: 7px;
+	text-align: center;
+	clear: both;
+	font-size: 70%;
+}
+
+.nav {
+	height: 35px;
+	width: 988px;
+	background-image: url(../images/navbar.jpg);
+	padding-top: 5px;
+	border: 1px solid #999999;
+	padding-left: 10px;
+	margin-top: 2px;
+}
