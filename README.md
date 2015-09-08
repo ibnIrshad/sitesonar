@@ -9,3 +9,8 @@ These are the original source files for a simple Pingdom clone project that I co
 # Features
 - Admin panel, client dashboard, Paypal integration, tiered services
 - Simple HTTP 200 checks, email notifications
+
+# License?
+See LICENSE
+
+Yes I do have the rights to post this code and open-source it, even though it was sold to a private firm.
